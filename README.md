@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi World👋   Here is LimeGrape!
+## 🌱 I’m currently learning  FrontEnd and SoftWare Development...
+## 🤔 I’m looking for help with Excellent engineers... 
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=indulgers&show_icons=true&theme=tokyonight) 
 
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=indulgers&layout=compact&theme=tokyonight) 
+
+![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=indulgers&repo=ChatGPT-Next-Web&theme=light) 
+
+![github统计](https://stats.justsong.cn/api/github?username=indulgers&theme=dark&lang=zh-CN)
+
+![B站统计](https://stats.justsong.cn/api/bilibili/?id=153428800&theme=dark) 
 <!--
 **indulgers/indulgers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Visitor Count](https://profile-counter.glitch.me/{indulgers}/count.svg) 
