@@ -9,7 +9,6 @@
 
 ![github统计](https://stats.justsong.cn/api/github?username=indulgers&theme=dark&lang=zh-CN)
 
-![B站统计](https://stats.justsong.cn/api/bilibili/?id=153428800&theme=dark) 
 <!--
 **indulgers/indulgers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
