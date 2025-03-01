@@ -34,20 +34,6 @@
   
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-stats.ubrong.com/api?username=indulgers&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-stats.ubrong.com/api/top-langs/?username=indulgers&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
-## 🔥 Recent Projects
-
-<div align="center">
-  <a href="https://github.com/indulgers/ChatGPT-Next-Web">
-    <img src="https://github-stats.ubrong.com/api/pin/?username=indulgers&repo=ChatGPT-Next-Web&theme=tokyonight" alt="ChatGPT Next Web"/>
-  </a>
-</div>
 
 ## 📈 Contribution Graph
 
