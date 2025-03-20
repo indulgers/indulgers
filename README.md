@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Indulger
+# 👋 Hi there! I'm Indulger
 
 <div align="center">
   
