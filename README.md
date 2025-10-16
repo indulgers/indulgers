@@ -42,7 +42,8 @@
 </div>
 
 ## Used to in xmind
-  <img width="1049" height="637" alt="image" src="https://github.com/user-attachments/assets/761d7b74-7d26-48ed-b730-4dd12ba9a093" />
+<img width="1010" height="436" alt="image" src="https://github.com/user-attachments/assets/e0034206-610d-4781-8733-f73646af0f45" />
+
 
 
 ## 🏆 GitHub Trophies
