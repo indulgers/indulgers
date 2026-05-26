@@ -42,7 +42,8 @@
 </div>
 
 ## Used to in xmind
-<img width="1010" height="436" alt="image" src="https://github.com/user-attachments/assets/e0034206-610d-4781-8733-f73646af0f45" />
+<img width="1251" height="474" alt="image" src="https://github.com/user-attachments/assets/8f5ad997-15e0-486d-84a7-1625d3995b03" />
+
 
 
 
