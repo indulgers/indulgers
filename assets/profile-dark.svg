@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
+  <title id="title">Indulger / limer — AI Product &amp; Full-Stack Engineer</title>
+  <desc id="desc">Blue and violet gradients over a fine grid, connecting an idea to a system and a product.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#408cff"/><stop offset="1" stop-color="#9b6cff"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#7866ef" stop-opacity=".16"/><stop offset="1" stop-color="#7866ef" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 H 0 V 40" fill="none" stroke="#7489c4" stroke-opacity=".12" stroke-width=".7"/></pattern>
+    <clipPath id="frame"><rect width="960" height="260" rx="16"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .flow { animation: drift 24s linear infinite; }
+    @keyframes drift { to { stroke-dashoffset: -160; } }
+    @media (prefers-reduced-motion: reduce) { .flow { animation: none; } }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="960" height="260" fill="#0c1326"/>
+    <rect width="960" height="260" fill="url(#grid)"/>
+    <ellipse cx="820" cy="70" rx="420" ry="300" fill="url(#glow)"/>
+    <path d="M0 259 H960" stroke="url(#accent)" stroke-width="3"/>
+    <rect x="48" y="40" width="30" height="4" rx="2" fill="url(#accent)"/>
+    <text x="90" y="48" fill="#aab7d6" font-size="12" letter-spacing="3">FROM IDEA TO WORKING SYSTEM</text>
+    <text x="46" y="122" fill="#ecf1ff" font-size="49" font-weight="650" letter-spacing="-1.8">Indulger / limer</text>
+    <text x="48" y="162" fill="#aab7d6" font-size="23">AI Product &amp; Full-Stack Engineer</text>
+    <g fill="#aab7d6" font-size="12" letter-spacing="2">
+      <text x="48" y="222">AGENTS</text><text x="176" y="222">PRODUCTS</text><text x="326" y="222">INFRASTRUCTURE</text>
+    </g>
+    <g fill="none" stroke="url(#accent)">
+      <path d="M670 91 H746 L796 141 H910" opacity=".35"/>
+      <path d="M670 171 H746 L796 121 H910" opacity=".35"/>
+      <path class="flow" d="M670 91 H746 L796 141 H910" stroke-dasharray="8 72" stroke-width="2" opacity=".7"/>
+      <circle cx="670" cy="91" r="5"/><circle cx="670" cy="171" r="5"/><rect x="802" y="102" width="38" height="38" rx="9" fill="#0c1326"/>
+      <path d="M814 121 H828 M821 114 V128"/>
+    </g>
+  </g>
+</svg>
